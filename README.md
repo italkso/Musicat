@@ -5,5 +5,5 @@
 
 ## 预览
 
-<img src="/Users/aaron/Documents/myGitHub/FMusicPlayer/FMusicPlayer.gif" alt="FMusicPlayer" style="zoom: 50%;" />
+<img src="https://github.com/Findaaron/FMusicPlayer/blob/master/FMusicPlayer.gif" alt="FMusicPlayer" style="zoom: 50%;" />
 
