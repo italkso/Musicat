@@ -1,9 +1,9 @@
 # FMusicPlayer
-一个使用 SwiftUI 和 AVKit 实现的 音乐播放器
+A music player with SwiftUI & AVKit
 
 
 
-## 预览
+## Preview 
 
 <img src="https://github.com/Findaaron/FMusicPlayer/blob/master/FMusicPlayer.gif" alt="FMusicPlayer" style="zoom: 30%;" />
 
