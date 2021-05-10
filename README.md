@@ -1,4 +1,4 @@
-# FMusicPlayer
+# Musicso
 A music player with SwiftUI & AVKit
 
 
